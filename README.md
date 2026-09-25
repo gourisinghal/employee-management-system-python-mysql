@@ -25,3 +25,7 @@ A console-based Employee Management System developed using Python and MySQL.
 This project allows users to manage employee records through a simple
 console-based interface. Employee information is stored and managed
 using a MySQL database.
+
+## Project Screenshot
+
+![Employee Management System](screenshots/main-menu.png)
