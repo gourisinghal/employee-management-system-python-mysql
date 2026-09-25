@@ -28,6 +28,4 @@ using a MySQL database.
 
 ## Project Screenshot
 
-## Project Screenshot
-
-![Employee Management System](screenshots/main%20menu.png)
+![Employee Management System](main menu.PNG)
